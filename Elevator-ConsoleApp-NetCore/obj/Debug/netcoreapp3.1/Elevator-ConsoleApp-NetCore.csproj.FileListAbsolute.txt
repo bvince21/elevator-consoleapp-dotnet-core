@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\obj\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\obj\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\obj\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.AssemblyInfo.cs
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\obj\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\bin\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.exe
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\bin\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.deps.json
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\bin\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.runtimeconfig.json
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\bin\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\bin\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.dll
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\bin\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.pdb
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\obj\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.dll
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\obj\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.pdb
+C:\Users\danie\source\repos\Elevator-ConsoleApp-NetCore\Elevator-ConsoleApp-NetCore\obj\Debug\netcoreapp3.1\Elevator-ConsoleApp-NetCore.genruntimeconfig.cache
